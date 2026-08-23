@@ -1,3 +1,17 @@
 body {
     font-family: "Roboto", sans-serif;
+    font-size: 1rem;
+    font-optical-sizing: auto;
+    font-style: normal;
+    font-variation-settings:
+            "wdth" 100;
+    color: #2b283a;
+    margin: 0;
+}
+.light-text {
+    font-weight: 400;
+}
+
+.heavy-text {
+    font-weight: 500;
 }
