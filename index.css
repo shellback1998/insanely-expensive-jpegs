@@ -15,3 +15,21 @@ body {
 .heavy-text {
     font-weight: 500;
 }
+
+header {
+    background-color: #5f29a3;
+    color: #d0aaff;
+    padding: 45px 0;
+}
+
+h1 {
+    color: whitesmoke;
+    font-size: 2.25rem;
+    margin: 0;
+}
+
+h3 {
+    color: #d0aaff;
+    font-size: 1.25rem;
+    margin: 0;
+}
