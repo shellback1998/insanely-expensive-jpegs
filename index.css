@@ -33,3 +33,12 @@ h3 {
     font-size: 1.25rem;
     margin: 0;
 }
+
+section {
+    padding: 45px 0;
+}
+
+.main-image {
+    width: 100%;
+    height: auto;
+}
