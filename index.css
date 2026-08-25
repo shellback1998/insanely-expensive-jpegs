@@ -40,12 +40,13 @@ h3 {
 
 a {
     color: #ef5839;
-    text-decoration: none;
+    text-decoration: underline dotted;
+
 }
 
 a:hover, a:active {
     color: #b4d44c;
-    text-decoration: underline dotted;
+
 }
 
 section {
