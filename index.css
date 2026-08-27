@@ -71,3 +71,32 @@ footer {
     text-align: center;
     color: #5f29a3;
 }
+
+
+.button-link {
+    display: inline-block;
+    padding: 10px 19px;
+    border-radius: 4.6px;
+    font-weight: 500;
+    text-decoration: none;
+}
+
+.button-link:hover, .button-link:active {
+    background-color: #f3e885;
+    color: #2b283a;
+}
+
+.button-primary {
+    background-color: #5f29a3;
+    color: whitesmoke;
+}
+
+.button-secondary {
+    background-color: #f0e0ff;
+    color: #5f29a3;
+}
+
+.button-tertiary {
+    background-color: white;
+    color: #5f29a3;
+}
